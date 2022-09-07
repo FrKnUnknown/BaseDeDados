@@ -21,7 +21,8 @@ Liberar acesso para o primeiro da Fila;
 Liberar acesso para todos da Fila (na ordem de chegada na fila);
 
 
-Autores
+Autores:
+
 José Ricardo Chies Gonçalves
 
 LinkedIn: https://www.linkedin.com/in/ricardo-chies-087557216/

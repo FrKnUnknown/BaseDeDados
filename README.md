@@ -19,3 +19,17 @@ Acesso (FILA)
 Adicionar um pedido de acesso na Fila;
 Liberar acesso para o primeiro da Fila;
 Liberar acesso para todos da Fila (na ordem de chegada na fila);
+
+
+Autores
+José Ricardo Chies Gonçalves
+
+LinkedIn: https://www.linkedin.com/in/ricardo-chies-087557216/
+
+E-mail: chies.dev@gmail.com
+
+Mateus Franklin Neco
+
+LinkedIn: https://www.linkedin.com/in/mateus-franklin-3049941a2/
+
+E-mail: matfranklin@outlook.com
